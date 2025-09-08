@@ -1,0 +1,6 @@
+python -m venv venv
+.venv/scripts/activate
+
+PARA QUEM TIVER ERRO DE EXECUTION POLICY AO TENTAR ATIVAR A VENV:
+
+set-executionpolicy remotesigned -scope currentuser
